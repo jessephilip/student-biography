@@ -1,0 +1,22 @@
+asynchronous - of or requiring a form of computer control timing protocol in which a specific operation begins upon receipt of an indication (signal) that the preceding operation has been completed.
+
+<tag attribute="value">stuff inside tag</tag>
+
+<h1> has an impact on SEO. That's why you are warned not to use more than one</h1>
+
+<a href="http://linktogoto.com">Text of Link</a>
+
+self closing tags do not contain content. it can 
+
+block level means take up all the horizontal space
+
+<div> and <span> have no meaning. <div> is block level. <span> is in-line level.
+
+<video> = <div class="video">
+
+form tags:
+	<form action=""> = section tag for forms (wraps the actual form)
+	<input> = text boxes
+	<label> = words next to radio buttons, etc.
+	<button>
+	<textarea> = large text area input
